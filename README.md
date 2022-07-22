@@ -1,5 +1,19 @@
 # Dr Andrew Guest Academic Portfolio
 
+## Background
+
+## Pedagogy
+
+## HEA Framework Dimensions
+
+* [Areas of Activity](HEAFramework/AreasofActivity.md)
+* [Core Knowledge](HEAFramework/CoreKnowledge.md)
+* [Professional Values](HEAFramework/ProfessionalValues.md)
+## Case Studies
+
+* [Games Development Programme Revalidation](CaseStudies/GamesDevRevalidation.md)
+* [Games Development Programme Lead](CaseStudies/GamesDevLead.md)
+
 ## Modules
 
 ### *My* Modules
