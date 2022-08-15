@@ -91,7 +91,7 @@ I believe that engagement and challenge are the two key factors in module design
 
 ## Modules
 
-### *My* Modules
+### Current Modules
 #### Level 4
 
 * [Games Fundamentals](modules/2022/Level4/GamesFundamentals.md)
@@ -107,7 +107,7 @@ I believe that engagement and challenge are the two key factors in module design
 * [iOS Games Development](modules/2017-2022/Level6/iOSGamesDevelopment.md)
 * [Major Project - Supervision](modules/2017-2022/Level6/MajorProjectSupervision.md)
 
-### Other Modules
+### Previous Modules
 
 #### Level 4
 
