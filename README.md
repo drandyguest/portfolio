@@ -49,9 +49,7 @@ Learning programming is an iterative process. The lessons/techniques learned in 
 
 Flexible teaching approach - need to be aware of what student are and aren't learning. Need to be flexible enough to speed up when concepts are learned quickly and (more often) slow down/repeat a concept which is providing troublesome.
 
-### Learning To Programme
-
-Becoming an effective programmer is based on several factors.  
+Becoming an effective programmer is a process that develops through a number of stages.  
 
 1. Basic conceptual understanding - what does the technique do? How does the technique do it? 
 2. Technical knowledge - how is the basic technique implemented in the programming language?
@@ -72,19 +70,6 @@ I find keeping the lecture portion as clear and simple as possible and then usin
 ### Game Module Approach
 
 Game modules are distinct from other modules in their focus on games. Ideally games development students should always be making games. They need to learn through practice but they also need to develop a portfolio of work for their future careers. It is appropriate then that each games module should be built around the development of a game. My approach to this is that the assessment should be based on the development of a game (or game component). In addition, where possible, the games module material/teaching should be based around the development of a game (or games) as an example.  
-
-########################
-
-The process of developing a module involves identifying the objectives, content teaching methods and assessment of the module, either linearly (Tyler 1949) or more iteratively (Taba 1962, Stenhouse 1957). I like the idea of discovery learning in curriculum design (Bruner 1966) but I find that getting students to engage and drive their own learning can be difficult (first year students are exceptionally good at finding distractions!) and it can be easy to fall back on simple. structured, content driven lectures.  
-
-Technical subjects, like programming, match well with level based taxonomies of learning (Bloom & Krathwohl 1956, Dave 1970). Coding is typically taught in such a manner - first students code by imitating what they are shown, this becomes internalised and can be replicated from memory, then as understanding of the underlying concept grows they are able to manipulate the code to achieve different effects. This eventually leads to a deeper understanding and the ability to form links with other concepts, leading to mastery of the concept. As an example, in code terms, they begin by replicating the code for a for loop that they have been shown, they memorise the code format, learn to manipulate it for more complex loops, learn how the for loop relates to other types of loops and eventually know how, when and why to use a loop.  
-
-I believe that engagement and challenge are the two key factors in module design. Every module should engage the students interests, it should nudge or tempt them in to wanting to learn more. Each module should also challenge the students at an appropriate level for each student.
-
-
-
-My philosophy of teaching has accrued informally over time. I've never formally studying teaching theory, I've picked up bits and pieces as I've gone along. Some of it comes from articles and books I've found, some comes from discussions with, and recommendations by, colleagues, mostly it comes from experience in the classroom as a student, a lecturer and an observer.  
-
 
 ### Module Planning
 
