@@ -29,11 +29,13 @@ Initially I present the problem to the students (step 1). Informally, in their p
 
 ## K3 - How students learn, both generally and within their subject/disciplinary area(s)
 
-Vast range in experience and knowledge at starting point - first year is about getting everyone to the same level (without losing those nearly there at the start)
-* problem based approach - range of problems
-* pair/threes working
-* resources to help those struggling
-* LSPs
+In Computing at YSJ we have a wide range of students. Computing Science is not widely taught at school level so we have to assume no knowledge of computing and programming at the start of first year. However some students do study computer science and programming at school and others have taught themselves to program. This leads to a wide range of ability levels in first year students (who have come directly from school). Similarly mature students, and others who have not come directly from school, have a wide range of experience and knowledge. The challenge here is in getting all of the students to the same base level by the end of first year, getting those with no experience programming up to speed while maintaining the engagement and providing some challenge to those with significant experience.  
+
+We have found that problem based learning is the best approach. We can provide a range of problems to the students that cover the course material and additional problems that give the experienced students the opportunity to push themselves further.  
+
+Having the students work together in twos or threes works well with the problem based approach. Working together allows students with differing knowledge and understanding to work together to find solutions. Additionally many of the more knowledgable students enjoy helping others learn.
+
+We have resources in place to help students with learning challenges. Our timetable is designed with some flexibility to help carers schedule their studies. We use Learning Support Plans (LSPs) to help students with specific requirements.
 
 ## K4 - The use and value of appropriate learning technologies
 

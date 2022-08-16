@@ -125,3 +125,16 @@ I believe that engagement and challenge are the two key factors in module design
 
 * [HCI](modules/2017-2022/Level6/HCI.md)
 
+### Future Modules
+
+#### Level 5
+
+* [Games Development With Game Engines 2023-24]
+* [Game Development Project 2023-24]
+#### Level 6
+
+* [Games Programming 2024-25]
+* [3D Graphics Programming 2024-25]
+* [Procedural Content Generation 2024-25]
+* [Agile Game Development 2024-25]
+* [iOS for Games Development 2024-25]
