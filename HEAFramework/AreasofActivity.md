@@ -36,6 +36,7 @@ We revalidated our degree programmes so the first year modules starting in 2022/
 I gave weekly lectures and run tutorial lab sessions. The lectures introduce concepts, the theory behind those concepts and explain how to implement them. The lab exercises give the students the opportunity to implement those concepts themselves and then further develop their skills by applying those concepts in different situations.  These lectures and sessions are revised as required during teaching and revised between years based on reflection on how the students progressed, research and technology developments.  
 
 I have also supported lecturers at the start of their career and lecturers new to York St John in understanding the York St John procedures and techniques. Where they have taken on a module I've taught previously I try to explain how that modules has been taught previously, which content is most important, where problems can occur and portential solutions to those problems. Supporting other lecturers like this is a satisfying challenge, helping them find their way to plan and teach a module is a joy.  
+
 ## A3 - Assess and give feedback to learners
 
 All modules in Computing are marked by the Module Lead for the module. As such I set the assessments, marked the submissions and provided feedback to all the students on the modules I taught. We also have a moderation system where a second lecturer not involved with the running of the module moderates the assessment marking.  
@@ -50,9 +51,12 @@ We have an issue where the University wants assessments to be anonymously marked
 
 **Examples**
 
+* formative - incremental tasks work well - awareness that formative is ignored if it is not required
 * Assessment
 * Marking Spreadsheet
-* Feedback Report
+* Feedback Report 
+* demonstration and code chat - collusion, plagiarism, demonstrate knowledge. (potential research - external dialogue)
+  
 ## A4 - Develop effective learning environments and approaches to student support and guidance
 
 I use Moodle modules pages to host content for each module. During the Covid Pandemic I also used an external website I managed to host module information. This gave me more flexibility and allowed be to link in tools for remote/online teaching more easily. I am migrating fully back to Moodle for the year 2022/3.  
@@ -63,4 +67,4 @@ We also begin recording the lectures (audio and video) during the pandemic and h
 
 ## A5 - Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practices
 
-Continual development of technical skills and knowledge is essential in computing, the technology is constantly evolving. As part of the programme revalidation we had to consider which technologies, software and programming languages we would be teaching. This process involved examining the existing modules to see if anything was out of date, looking to see if anything that was now essential was missing, comparison to other institutions, feedback from industrial contacts, current research and pedagogy. This is discussed more in the [Game Development Revalidation case study](../CaseStudies/GamesDevRevalidation.md).  
+Continual development of technical skills and knowledge is essential in computing, the technology is constantly evolving. As part of the programme revalidation we had to consider which technologies, software and programming languages we would be teaching. This process involved examining the existing modules to see if anything was out of date, looking to see if anything that was now essential was missing, comparison to other institutions, feedback from industrial contacts, current research and pedagogy. This is discussed more in the [Game Development Revalidation case study](../CaseStudies/GamesDevRevalidation.md).   

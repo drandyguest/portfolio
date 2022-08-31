@@ -61,7 +61,8 @@ different languages/platforms/technology
 * Uni regulations/processes
 * HE quality regulations
 * revalidation
-* BCS acreditation
+* BCS acreditation - quality plus wider process
+
 ## References
 
  * Barrows, Howard S. (1996). "Problem-based learning in medicine and beyond: A brief overview". New Directions for Teaching and Learning. 1996 (68): 3–12. doi:10.1002/tl.37219966804.

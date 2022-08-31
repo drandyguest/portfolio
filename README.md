@@ -24,7 +24,8 @@ Throughout my PhD I taught at various levels at Abertay. Initially I worked as a
 
 I have played games of all kinds for as long as I can remember, board games from early childhood, video games from the late seventies and table-top RPGs since the early eighties. My time at Abertay (during my PhD) gave me the chance to get involved with teaching games development and that has become the focus of my academic career.  
 
-I joined York St John at the start of the 2017/18 academic year.  I was
+I joined York St John at the start of the 2017/18 academic year.  
+
 ## Pedagogy
 
 * [Pedagogy](pedagogy.md)
@@ -34,7 +35,7 @@ I joined York St John at the start of the 2017/18 academic year.  I was
 * [Areas of Activity](HEAFramework/AreasofActivity.md)
 * [Core Knowledge](HEAFramework/CoreKnowledge.md)
 * [Professional Values](HEAFramework/ProfessionalValues.md)
-* 
+
 ## Case Studies
 
 * [Games Development Programme Revalidation](CaseStudies/GamesDevRevalidation.md)
@@ -42,50 +43,4 @@ I joined York St John at the start of the 2017/18 academic year.  I was
 
 ## Modules
 
-### Current Modules
-#### Level 4
-
-* [Games Fundamentals](modules/2022/Level4/GamesFundamentals.md)
-* [Games Design](modules/2022/Level4/GamesDesign.md)
-
-#### Level 5
-
-* [Programming 03](modules/2017-2022/Programming03.md)
-
-#### Level 6
-
-* [Game Engine Development](modules/2017-2022/GameEngineDevelopment.md)
-* [iOS Games Development](modules/2017-2022/Level6/iOSGamesDevelopment.md)
-* [Major Project - Supervision](modules/2017-2022/Level6/MajorProjectSupervision.md)
-
-### Previous Modules
-
-#### Level 4
-
-* [Computer Games Fundamentals](modules/2017-2022/Level4/ComputerGamesFundamentals.md)
-* [Programming 01](modules/2017-2022/Level4/Programming01.md)
-* [Programming 02](modules/2017-2022/Programming02.md)
-
-#### Level 5
-
-* [Design Patterns](modules/2017-2022/DesignPatterns.md)
-* [Professional Project](modules/2017-2022/Level5/ProfessionalProject.md)
-* [Philosophies of Technology](modules/2017-2022/Level5/PhilosophiesofTech.md)
-
-#### Level 6
-
-* [HCI](modules/2017-2022/Level6/HCI.md)
-
-### Future Modules
-
-#### Level 5
-
-* [Games Development With Game Engines 2023-24]
-* [Game Development Project 2023-24]
-#### Level 6
-
-* [Games Programming 2024-25]
-* [3D Graphics Programming 2024-25]
-* [Procedural Content Generation 2024-25]
-* [Agile Game Development 2024-25]
-* [iOS for Games Development 2024-25]
+* [Modules](Modules.md)
