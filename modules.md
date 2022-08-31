@@ -8,11 +8,11 @@
 
 ### Level 5
 
-* [Programming 03](modules/2017-2022/Programming03.md)
+* [Programming 03](modules/2017-2022/Level5/Programming03.md)
 
 ### Level 6
 
-* [Game Engine Development](modules/2017-2022/GameEngineDevelopment.md)
+* [Game Engine Development](modules/2017-2022/Level6/GameEngineDevelopment.md)
 * [iOS Games Development](modules/2017-2022/Level6/iOSGamesDevelopment.md)
 * [Major Project - Supervision](modules/2017-2022/Level6/MajorProjectSupervision.md)
 
@@ -22,11 +22,11 @@
 
 * [Computer Games Fundamentals](modules/2017-2022/Level4/ComputerGamesFundamentals.md)
 * [Programming 01](modules/2017-2022/Level4/Programming01.md)
-* [Programming 02](modules/2017-2022/Programming02.md)
+* [Programming 02](modules/2017-2022/Level4/Programming02.md)
 
 ### Level 5
 
-* [Design Patterns](modules/2017-2022/DesignPatterns.md)
+* [Design Patterns](modules/2017-2022/Level5/DesignPatterns.md)
 * [Professional Project](modules/2017-2022/Level5/ProfessionalProject.md)
 * [Philosophies of Technology](modules/2017-2022/Level5/PhilosophiesofTech.md)
 

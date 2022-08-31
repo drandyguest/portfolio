@@ -43,4 +43,4 @@ I joined York St John at the start of the 2017/18 academic year.
 
 ## Modules
 
-* [Modules](Modules.md)
+* [Modules](modules.md)
