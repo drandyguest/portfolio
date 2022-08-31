@@ -27,12 +27,8 @@
 ### Level 5
 
 * [Design Patterns](modules/2017-2022/Level5/DesignPatterns.md)
-* [Professional Project](modules/2017-2022/Level5/ProfessionalProject.md)
-* [Philosophies of Technology](modules/2017-2022/Level5/PhilosophiesofTech.md)
 
 ### Level 6
-
-* [HCI](modules/2017-2022/Level6/HCI.md)
 
 ## Future Modules
 

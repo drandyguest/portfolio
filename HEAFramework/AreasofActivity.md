@@ -19,9 +19,6 @@ We revalidated our degree programmes so students starting in the academic year 2
 Additionally I have taught the following modules.
 
 * [Programming 01](../modules/2017-2022/Level4/Programming01.md)
-* [Professional Project](../modules/2017-2022/Level5/ProfessionalProject.md)
-* [Philosophies of Technology](../modules/2017-2022/Level5/PhilosophiesofTech.md)
-* [HCI](../modules/2017-2022/Level6/HCI.md)
 
 ## A1 - Design and plan learning activities and/or programmes of study
 
