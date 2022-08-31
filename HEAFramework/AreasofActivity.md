@@ -4,11 +4,11 @@ I have been teaching at YSJ since the beginning of the 2017/18 academic year.
 
 The modules listed below are 'my' modules. I have developed, taught and assessed them since I took them over between 2017 and 2019.  
 
-* [Programming 02](../modules/2017-2022/Programming02.md)
+* [Programming 02](../modules/2017-2022/Level4/Programming02.md)
 * [Computer Games Fundamentals](../modules/2017-2022/Level4/ComputerGamesFundamentals.md)
-* [Programming 03](./.modules/2017-2022/Programming03.md)
-* [Design Patterns](../modules/2017-2022/DesignPatterns.md)
-* [Game Engine Development](../modules/2017-2022/GameEngineDevelopment.md)
+* [Programming 03](./.modules/2017-2022/Level5/Programming03.md)
+* [Design Patterns](../modules/2017-2022/Level5/DesignPatterns.md)
+* [Game Engine Development](../modules/2017-2022/Level6/GameEngineDevelopment.md)
 * [iOS Games Development](../modules/2017-2022/Level6/iOSGamesDevelopment.md)
 
 We revalidated our degree programmes so students starting in the academic year 2022/23 will be taking new and reworked modules. This year I will be teaching the following new modules.  
