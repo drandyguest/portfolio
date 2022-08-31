@@ -48,7 +48,7 @@ I made the decision to continue with the approach from the previous year (using 
 
 ### 2022/23
 
-In 2021/22 we revalidated our existing degree programmes (see [Games Development Revalidation](../../../CaseStudies/GamesDevRevalidation.md)). This module will be replaced by [COM4014M Games Fundamentals](../../2022/Level4/GamesFundamentals.md) in semester 1 and [Games Design](../../2022/Level4/GamesDesign.md) in semester 2.  
+In 2021/22 we revalidated our existing degree programmes (see [Games Development Revalidation](../../../CaseStudies/GamesDevRevalidation.md)). This module will be replaced by [COM4014M Games Fundamentals](../../2022/Level4/GamesFundamentals.md) in semester 1 and [COM4015M Games Design](../../2022/Level4/GamesDesign.md) in semester 2.  
 
 ## Evidence
 
