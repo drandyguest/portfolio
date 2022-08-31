@@ -16,7 +16,7 @@ During the Covid pandemic this module shifted to online delivery. Lectures and l
 
 The biggest challenge for this module was the development environment. Programming Java requires specialist software. While this software is freely and easily available, actually installing and getting it setup correctly can be difficult. Remotely supporting fifty students all trying to setup such software on their home systems, which can be Windows PCs, Linux PCs or Macs, would be a huge challenge. Additionally not every student has a computer at home so I sought out a different solution. I found [Replit](https://replit.com/), an online browser based coding environment which allows users to develop code in their browsers without installing any software. This is not an ideal solution, it can be a slow system to use, but its easy (and free) availability made it a good solution for the working from home situation.  
 
-Additionally I mirrored the module content to an external website which I believe improved access for the students. It also enabled me to integrate the coding content on Replit with the module information on the website in a way I couldn't with Moodle. I go in to this in more detail [here - Online Teaching](../../../CaseStudies/OnlineTeaching.md).  
+Additionally I mirrored the module content to an external website which I believe improved access for the students. It also enabled me to integrate the coding content on Replit with the module information on the website in a way I couldn't with Moodle. I go in to this in more detail [here (Online Teaching).](../../../CaseStudies/OnlineTeaching.md).  
 
 ### 2021-22
 
