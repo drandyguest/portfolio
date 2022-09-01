@@ -34,3 +34,14 @@
 * Practical hands on focus
 * Games Programming
 * Game Engine Use
+
+## Evidence
+
+* [Games Development Programme Specification](../evidence/ProgrammeSpecification-GamesDevelopment.docx)
+* [Games Fundamentals Module Specification](../evidence/COM4015M-GamesFundamentals.docx)
+* [Games Design Module Specification](../evidence/COM4015M-GamesFundamentals.docx)
+* [Student Feedback 1 (anonymised)](../evidence/revalidfeed1.png)
+* [Student Feedback 2 (anonymised)](../evidence/revalidfeed2.png)
+* [Student Feedback 3 (anonymised)](../evidence/revalidfeed3.png)
+* [Student Feedback 4 (anonymised)](../evidence/revalidfeed4.png)
+* 

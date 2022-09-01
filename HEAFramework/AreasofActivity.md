@@ -15,11 +15,6 @@ We revalidated our degree programmes so students starting in the academic year 2
 
 * [Games Fundamentals](../modules/2022/Level4/GamesFundamentals.md)
 * [Games Design](../modules/2022/Level4/GamesFundamentals.md)
-
-Additionally I have taught the following modules.
-
-* [Programming 01](../modules/2017-2022/Level4/Programming01.md)
-
 ## A1 - Design and plan learning activities and/or programmes of study
 
 For all the modules listed above I planned out the module, prepared lectures, exercise material and assessments. Most modules were planned based on Module Specifications provided to me. These specifications were generally (and intentionally) as open as possible to allow lecturers flexibility in module content. The specifications contain a general overview of each module, a list of indicative content, the learning outcomes to be met and the assessment format. Based on this information, discussions with colleagues, and comparison to similar modules taught at other institutions I planned out the course of each module. My approach is to identify the required content as thematically grouped blocks and developed lectures for each block. During the semester I try to revise the content when students are struggling to progress (and occasionally when they progress faster than expected!).  
@@ -46,13 +41,11 @@ Over the degree programme the depth and detail of the assessment task descriptio
 
 We have an issue where the University wants assessments to be anonymously marked so submissions through Moodle are anonymised. Our students submit their code through our GitLab server which is not anonymised. So the best case is we get anonymised reports/essays that contain a link to GitLab which identifies the student. The worst case is the student doesn't include the link in the report and doesn't put their name in the report, and we have no idea if they submitted code until the submission is de-anonymised and we aren't supposed to do that till marking is complete.  
 
-**Examples**
+## Evidence
 
-* formative - incremental tasks work well - awareness that formative is ignored if it is not required
-* Assessment
-* Marking Spreadsheet
-* Feedback Report 
-* demonstration and code chat - collusion, plagiarism, demonstrate knowledge. (potential research - external dialogue)
+* [Assessment Brief Example](../evidence/AssessmentBriefExample.docx)
+* [Marking Spreadsheet Example (anonymised)](../evidence/MarksExample.xlsm)
+* [Feedback Example (anonymised)](../evidence/FeedbackExample.pdf)
   
 ## A4 - Develop effective learning environments and approaches to student support and guidance
 

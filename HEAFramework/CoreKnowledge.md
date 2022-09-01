@@ -39,10 +39,10 @@ We have resources in place to help students with learning challenges. Our timeta
 
 ## K4 - The use and value of appropriate learning technologies
 
-Moodle
-VSC
-Recorded Lectures
-different languages/platforms/technology
+YSJ uses Moodle as its electronic blackboard system. We use Moodle to host lecture slides, class exercises, assessments and other content.  
+
+I discuss various technology uses when discussing [Online Teaching](../CaseStudies/OnlineTeaching.md)
+
 ## K5 - Methods for evaluating the effectiveness of teaching 
 
 * assessment - formative/summative

@@ -28,7 +28,7 @@ I joined York St John at the start of the 2017/18 academic year.
 
 ## Pedagogy
 
-* [Pedagogy](pedagogy.md)
+* [Pedagogy](CaseStudies/pedagogy.md)
 
 ## HEA Framework Dimensions
 

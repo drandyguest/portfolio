@@ -14,7 +14,7 @@ The impact of this varies by module. For programming modules it matters a great 
 
 **Differentiation (Tomlinson)**  
 
-Tomlinson (p248) describes a *Differentiation* based approach where students are allowed to learn at their own pace based on their own knowledge and desires. **do students know enought to decide for themselves?**. Tomlinson recommends having extra activities for those who finish early. She also recommends allowing the more experienced students to assist the waker ones and working in pairs or groups. These suggestions work well in computing. A range of exercises can be prepared and students naturally work together in twos or threes. These groups form naturally, sometimes with one experienced student and one or two weaker ones, sometimes with two or three mid level students working together. This also matches up to an industry practice known as [pair programming](https://en.wikipedia.org/wiki/Pair_programming). 
+Tomlinson (Tomlinson 1995, Tomlinson 2005) describes a *Differentiation* based approach where students are allowed to learn at their own pace based on their own knowledge and desires.  Tomlinson recommends having extra activities for those who finish early. She also recommends allowing the more experienced students to assist the waker ones and working in pairs or groups. These suggestions work well in computing. A range of exercises can be prepared and students naturally work together in twos or threes. These groups form naturally, sometimes with one experienced student and one or two weaker ones, sometimes with two or three mid level students working together. This also matches up to an industry practice known as [pair programming](https://en.wikipedia.org/wiki/Pair_programming). 
 
 ### Continuous Incremental & Iterative Learning
 
@@ -52,3 +52,17 @@ Technical subjects, like programming, match well with level based taxonomies of 
 
 I believe that engagement and challenge are the two key factors in module design. Every module should engage the students interests, it should nudge or tempt them in to wanting to learn more. Each module should also challenge the students at an appropriate level for each student.   
 
+## References
+
+* Barrows, Howard S. (1996). "Problem-based learning in medicine and beyond: A brief overview". New Directions for Teaching and Learning. 1996 (68): 3–12. doi:10.1002/tl.37219966804.
+* Bloom, B. and Krathwohl, D., 1956, *Taxonomy of Educational Objectives*, London: Longman
+* Bonwell, C. C., & Eison, J. A. (1991). Active Learning: Creating Excitement in the Classroom. ASHE-ERIC Higher Education Report, Washington DC: School of Education and Human Development, George Washington University.
+* Dave, R.H., 1970, *Psychomotor Levels* in R.J. Armstrong (ed) *Developing and Writing Behavioural Objectives* (pp.20-1), Tucson, AZ: Educational Innovators Press
+* Hogue, A., Kapralos, B. and Desjardins, F. (2011), "The role of project‐based learning in IT: A case study in a game development and entrepreneurship program", Interactive Technology and Smart Education, Vol. 8 No. 2, pp. 120-134
+* Stenhouse, L., 1975, *An Introduction to Curriculum Research and Development*, London: Hieneman Educational
+* Taba H, 1962, *Curriculum Development Theory and Practice*, Crow's Nest, NSW: Allen & Unwin
+* Tomlinson, C.A., 1995, *How to Differentiate Instruction in Mixed-Ability Classrooms*, Alxeandria, VA:ASCD
+* Tomlinson, C.A., 2005, *Differentiation in Practice*, Alxeandria, VA:ASCD
+* Tyler R.W., 1949, *Basic Principles of Curriculum and Instruction*, Chicago, University of Chicago Press
+* Wood, D. F. (2003). "ABC of learning and teaching in medicine: Problem based learning". BMJ. 326 (7384): 328–330. doi:10.1136/bmj.326.7384.328. PMC 1125189. PMID 12574050.
+* "Problem-Based Learning - Education - Maastricht University". www.maastrichtuniversity.nl. Retrieved 2022-08-15.
