@@ -26,20 +26,20 @@ I have played games of all kinds for as long as I can remember, board games from
 
 I joined York St John at the start of the 2017/18 academic year.  
 
-## Pedagogy
-
-* [Pedagogy](CaseStudies/pedagogy.md)
-
 ## HEA Framework Dimensions
 
 * [Areas of Activity](HEAFramework/AreasofActivity.md)
 * [Core Knowledge](HEAFramework/CoreKnowledge.md)
 * [Professional Values](HEAFramework/ProfessionalValues.md)
 
-## Case Studies
+## Topics
 
+* [Pedagogy](CaseStudies/pedagogy.md)
 * [Games Development Programme Revalidation](CaseStudies/GamesDevRevalidation.md)
 * [Games Development Programme Lead](CaseStudies/GamesDevLead.md)
+* [Online Teaching](CaseStudies/OnlineTeaching.md)
+* [Marking](CaseStudies/Marking.md)
+* [Cross Discipline Collaboration](CaseStudies/CrossDisciplineCollaboration.md)
 
 ## Modules
 
