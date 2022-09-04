@@ -40,7 +40,7 @@ Obviously it isn't possible to give a lecture to a class such that all approache
 
 I find keeping the lecture portion as clear and simple as possible and then using a problem based approach as class exercises is generally the most effective approach for the majority of the students. Some students require more support usually in small groups or one to one tuition during lab sessions.  
 
-## K2 - Appropriate methods for teaching, learning and assessing in the subject area and at the level of the academic programme
+## Active Learning
 
 Computing as an industry, especially software development, requires individual knowledge and ability, alongside teamwork which utilises differening knowledge and ability in team members. This poses a number of challenges teaching computing, especially in teaching programming. Is it possible to develop individual ability whilst also teaching efficient and smart use of differing knowledge in teams.  
 
@@ -61,8 +61,6 @@ While we don't formally use the Maastrict 7-Jump (Wood 2003), this approach does
 7. discuss the findings
 
 Initially I present the problem to the students (step 1). Informally, in their pairs the students analyse and discuss the problem, seeking a solution (steps 2-4). They attempt a solution, revising and reconsidering if it fails (steps 5 and 6, revisiting 2-4 if needed). As the students progress through the module(s) they will learn new concepts and learn how to use them alongside the current and previous concepts (steps 5-7). Students typically revise the whole process when working on the assessment.  
-
-[Pedagogy](../CaseStudies/pedagogy.md)  
 
 ### Game Module Approach
 
@@ -75,39 +73,6 @@ The process of developing a module involves identifying the objectives, content 
 Technical subjects, like programming, match well with level based taxonomies of learning (Bloom & Krathwohl 1956, Dave 1970). Coding is typically taught in such a manner - first students code by imitating what they are shown, this becomes internalised and can be replicated from memory, then as understanding of the underlying concept grows they are able to manipulate the code to achieve different effects. This eventually leads to a deeper understanding and the ability to form links with other concepts, leading to mastery of the concept. As an example, in code terms, they begin by replicating the code for a for loop that they have been shown, they memorise the code format, learn to manipulate it for more complex loops, learn how the for loop relates to other types of loops and eventually know how, when and why to use a loop.  
 
 I believe that engagement and challenge are the two key factors in module design. Every module should engage the students interests, it should nudge or tempt them in to wanting to learn more. Each module should also challenge the students at an appropriate level for each student.   
-
-### ds
-Computing as an industry, especially software development, requires individual knowledge and ability, alongside teamwork which utilises differening knowledge and ability in team members. This poses a number of challenges teaching computing, especially in teaching programming. Is it possible to develop individual ability whilst also teaching efficient and smart use of differing knowledge in teams.  
-
-Our approach is based around problem solving. Problem based learning is student focused and allows them to learn by doing. It is a form of Active learning - *"a method of learning in which students are actively or experientially involved in the learning process and where there are different levels of active learning, depending on student involvement."* (Bonwell & Eison 1991).
-
-Concepts are presented as theory and with worked examples in lectures. Lab exercises then give the students chance to implement those theories themselves. The initial exercises are generally simple and straightforward but are followed up by exercises which present the students with a problem to solve with being explicit on how to solve it. The students need to work out how and when to use the concept (along with earlier concepts). At this stage we encourage students to work in twos or threes to understand the problem and develop a solution. This generally works well and students are able to bring different abilities and understanding of the concepts together to find solutions. This also nicely matches up to the industrial practice of Pair Programming.  
-
-While we don't formally use the Maastrict 7-Jump (Wood 2003), this approach does mirror the process the students are taken through.  
-
-**Maastrict 7-Jump**  
-
-1. discuss the case and make sure everyone understands the problem
-2. identify the questions that need to be answered to shed light on the case
-3. brainstorm what the group already knows and identify potential solutions
-4. analyse and structure the results of the brainstorming session
-5. formulate learning objectives for the knowledge that is still lacking
-6. do independent study, individually or in smaller groups: read articles or books, follow practicals or attend lectures to gain the required knowledge
-7. discuss the findings
-
-Initially I present the problem to the students (step 1). Informally, in their pairs the students analyse and discuss the problem, seeking a solution (steps 2-4). They attempt a solution, revising and reconsidering if it fails (steps 5 and 6, revisiting 2-4 if needed). As the students progress through the module(s) they will learn new concepts and learn how to use them alongside the current and previous concepts (steps 5-7). Students typically revise the whole process when working on the assessment.  
-
-
-### video
-
-In Computing at YSJ we have a wide range of students. Computing Science is not widely taught at school level so we have to assume no knowledge of computing and programming at the start of first year. However some students do study computer science and programming at school and others have taught themselves to program. This leads to a wide range of ability levels in first year students (who have come directly from school). Similarly mature students, and others who have not come directly from school, have a wide range of experience and knowledge. The challenge here is in getting all of the students to the same base level by the end of first year, getting those with no experience programming up to speed while maintaining the engagement and providing some challenge to those with significant experience.  
-
-We have found that problem based learning is the best approach. We can provide a range of problems to the students that cover the course material and additional problems that give the experienced students the opportunity to push themselves further.  
-
-Having the students work together in twos or threes works well with the problem based approach. Working together allows students with differing knowledge and understanding to work together to find solutions. Additionally many of the more knowledgable students enjoy helping others learn.
-
-We have resources in place to help students with learning challenges. Our timetable is designed with some flexibility to help carers schedule their studies. We use Learning Support Plans (LSPs) to help students with specific requirements.
-
 
 ## References
 
