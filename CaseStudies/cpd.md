@@ -16,4 +16,4 @@ I'm a member of the [International Game Developers Association (IGDA)](https://i
 
 We are in the process of applying for [BCS](https://www.bcs.org/) accreditation.
 
-**Relavant Pages : ** [BCS](BCSAccreditation.md)  
+**Relevant Pages : ** [BCS](BCSAccreditation.md)  

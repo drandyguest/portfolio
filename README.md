@@ -31,6 +31,8 @@ I joined York St John at the start of the 2017/18 academic year.
 * [Areas of Activity](HEAFramework/AreasofActivity.md)
 * [Core Knowledge](HEAFramework/CoreKnowledge.md)
 * [Professional Values](HEAFramework/ProfessionalValues.md)
+* [Reference 1](evidence/andy_guest%20MOD.docx)
+* [Reference 2](evidence/Reference_%20Andy%20Guest.pdf)
 
 ## Topics
 

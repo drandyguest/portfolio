@@ -33,4 +33,4 @@ I offer students bookable tutorial session, either face to face or through MS Te
 In addition to regularly taking part in YSJ Open Days I have been involved in outreach sessions with local schools and [Teen Tech](https://teentech.com/).  
 
 
-**Relavant Pages : ** [Pedagogy](pedagogy.md), [Marking](Marking.md), [Online Teaching](OnlineTeaching.md),  
+**Relevant Pages : ** [Pedagogy](pedagogy.md), [Marking](Marking.md), [Online Teaching](OnlineTeaching.md),  

@@ -6,7 +6,7 @@ Computing is a highly technical field and teaching it requires a great deal of k
 
 During the revalidation of our programmes we were able to update our curriculum based on developments in technology, software and programming.  
 
-**Relavant Pages : ** [Modules](../modules.md), [Game Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [Cross Discipline Collaboration](../CaseStudies/CrossDisciplineCollaboration.md)  
+**Relevant Pages : ** [Modules](../modules.md), [Game Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [Cross Discipline Collaboration](../CaseStudies/CrossDisciplineCollaboration.md)  
 
 ## K2 - Appropriate methods for teaching, learning and assessing in the subject area and at the level of the academic programme
 
@@ -14,7 +14,7 @@ Computing as an industry, especially software development, requires individual k
 
 Our approach is based around problem solving. Problem based learning is student focused and allows them to learn by doing. It is a form of Active learning - *"a method of learning in which students are actively or experientially involved in the learning process and where there are different levels of active learning, depending on student involvement."* (Bonwell & Eison 1991).
 
-**Relavant Pages : ** [Pedagogy](../CaseStudies/pedagogy.md), [Online Teaching](../CaseStudies/OnlineTeaching.md), [Marking](../CaseStudies/Marking.md), [Learning Requirements](../CaseStudies/learningrequirements.md)
+**Relevant Pages : ** [Pedagogy](../CaseStudies/pedagogy.md), [Online Teaching](../CaseStudies/OnlineTeaching.md), [Marking](../CaseStudies/Marking.md), [Learning Requirements](../CaseStudies/learningrequirements.md)
 
 ## K3 - How students learn, both generally and within their subject/disciplinary area(s)
 
@@ -26,13 +26,13 @@ Having the students work together in twos or threes works well with the problem 
 
 We have resources in place to help students with learning challenges. Our timetable is designed with some flexibility to help carers schedule their studies. We use Learning Support Plans (LSPs) to help students with specific requirements.
 
-**Relavant Pages : ** [Pedagogy](../CaseStudies/pedagogy.md), [Learning Requirements](../CaseStudies/learningrequirements.md), [Online Teaching](../CaseStudies/OnlineTeaching.md)  
+**Relevant Pages : ** [Pedagogy](../CaseStudies/pedagogy.md), [Learning Requirements](../CaseStudies/learningrequirements.md), [Online Teaching](../CaseStudies/OnlineTeaching.md)  
 
 ## K4 - The use and value of appropriate learning technologies
 
 YSJ uses Moodle as its electronic blackboard system. We use Moodle to host lecture slides, class exercises, assessments and other content.  
 
-**Relavant Pages : **  [Online Teaching](../CaseStudies/OnlineTeaching.md)
+**Relevant Pages : **  [Online Teaching](../CaseStudies/OnlineTeaching.md)
 
 ## K5 - Methods for evaluating the effectiveness of teaching 
 
@@ -52,7 +52,7 @@ We elicit feedback directly from students in a number of ways ([Student experien
   During the semester the module is taught I try to keep track of how the students are progressing. When planning the sessions for a module I usually choose a topic that is useful but not essential to the module. Something that pushes a little beyond the learning outcomes. If I find that the students aren't progressing as well as expected I know I can drop that lecture and insert a revision lecture earlier on. Very occasionally I find the students progressing better than expected and I can push two lectures together to challenge them, extending the extra material at the end. I keep notes on any topics that proved tricky to understand, any new examples, etc.
   At the end of the semester, once the marking is completed, I think about the module again, thinking in terms of the assessment results. Do the results suggest a problem in any particular area? Do they suggest an area that is too easy? Is there a concept that the students are misunderstanding or avoiding? These feed in to any changes/updates for the next year.  
 
-**Relavant Pages : ** [Marking](../CaseStudies/Marking.md), [Pedagogy](../CaseStudies/pedagogy.md)  
+**Relevant Pages : ** [Marking](../CaseStudies/Marking.md), [Pedagogy](../CaseStudies/pedagogy.md)  
 
 ### Evidence
 
@@ -74,7 +74,7 @@ We elicit feedback directly from students in a number of ways ([Student experien
 * Games Development Revalidation
 * BCS acreditation
 
-**Relavant Pages : ** [Game Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [BCS Accreditation](../CaseStudies/BCSAccreditation.md)
+**Relevant Pages : ** [Game Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [BCS Accreditation](../CaseStudies/BCSAccreditation.md)
 
 ### Evidence
 

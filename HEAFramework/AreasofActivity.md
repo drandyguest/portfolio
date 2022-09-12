@@ -24,7 +24,7 @@ We have a strong focus on the practical application of knowledge, lab/tutorial e
 
 We revalidated our degree programmes so the first year modules starting in 2022/3 (Games Fundamentals and Games Design) are new modules this year. I developed the module specifications for these modules (and a number of other modules that will start being taught in 2023/4 and 2024/5) as part of that revalidation. 
 
-**Relavant Pages : ** [Games Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [Modules](../modules.md), [Cross Discipline Collaboration](../CaseStudies/CrossDisciplineCollaboration.md)  
+**Relevant Pages : ** [Games Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [Modules](../modules.md), [Cross Discipline Collaboration](../CaseStudies/CrossDisciplineCollaboration.md)  
 
 ## A2 - Teach and/or support learning
 
@@ -32,7 +32,7 @@ I gave weekly lectures and run tutorial lab sessions. The lectures introduce con
 
 I have also supported lecturers at the start of their career and lecturers new to York St John in understanding the York St John procedures and techniques. Where they have taken on a module I've taught previously I try to explain how that modules has been taught previously, which content is most important, where problems can occur and portential solutions to those problems. Supporting other lecturers like this is a satisfying challenge, helping them find their way to plan and teach a module is a joy.  
 
-**Relavant Pages : ** [Modules](../modules.md), [Cross Discipline Collaboration](../CaseStudies/CrossDisciplineCollaboration.md), [Learning Requirements](../CaseStudies/learningrequirements.md)  
+**Relevant Pages : ** [Modules](../modules.md), [Cross Discipline Collaboration](../CaseStudies/CrossDisciplineCollaboration.md), [Learning Requirements](../CaseStudies/learningrequirements.md)  
 
 ## A3 - Assess and give feedback to learners
 
@@ -40,7 +40,7 @@ All modules in Computing are marked by the Module Lead for the module. As such I
 
 My approach to assessment is to give students a general description of the task(s) required then a more detailed description of the steps involved. As part of the assessment brief I provide a marking scheme which breaks down how the marks for the assessment are awarded based on each task/step. Students should be able to use the marking scheme to identify which parts of the assessment require most effort.  
 
-**Relavant Pages : ** [Marking](../CaseStudies/Marking.md)  
+**Relevant Pages : ** [Marking](../CaseStudies/Marking.md)  
 
 ## A4 - Develop effective learning environments and approaches to student support and guidance
 
@@ -50,10 +50,10 @@ During the pandemic I was able to find and utilise an online/web-page based Java
 
 We also began recording the lectures (audio and video) during the pandemic and have continued that process.  
 
-**Relavant Pages : ** [Online Teaching](../CaseStudies/OnlineTeaching.md), [Learning Requirements](../CaseStudies/learningrequirements.md) and [Pedagogy](../CaseStudies/pedagogy.md). 
+**Relevant Pages : ** [Online Teaching](../CaseStudies/OnlineTeaching.md), [Learning Requirements](../CaseStudies/learningrequirements.md) and [Pedagogy](../CaseStudies/pedagogy.md). 
 
 ## A5 - Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practices
 
 Continual development of technical skills and knowledge is essential in computing, the technology is constantly evolving. As part of the programme revalidation we had to consider which technologies, software and programming languages we would be teaching. This process involved examining the existing modules to see if anything was out of date, looking to see if anything that was now essential was missing, comparison to other institutions, feedback from industrial contacts, current research and pedagogy. This is discussed more in 
 
-**Relavant Pages : ** [Game Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [Pedagogy](../CaseStudies/pedagogy.md), [CPD](../CaseStudies/cpd.md)  
+**Relevant Pages : ** [Game Development Revalidation](../CaseStudies/GamesDevRevalidation.md), [Pedagogy](../CaseStudies/pedagogy.md), [CPD](../CaseStudies/cpd.md)  
